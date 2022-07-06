@@ -1,0 +1,86 @@
+javascript : programming which makes any thing interactive
+
+sprites: predefined classes which helps to create objects
+
+classes: blueprints for making of objects
+
+objects: real thing which has some properties and functions
+
+function preload: helps to load all animation and images
+
+groups: collections of similar objects
+
+arrays: collection of values into single variable
+and each values is accessed through index(position)
+
+physics engine: to implement the properties of physics with javascript
+matter.js
+
+Engine: Scenario in which the world will be made
+
+World: enviornment in which properties are implemented
+
+Bodies: are objects which are created in world and follow the properties
+
+constraint: helps to bind two or more objects together
+
+Api: Application Programming interface - to provide information from server
+
+realtime database: Store & sync data between your users in realtime
+
+firebase: The Firebase Realtime Database is a cloud-hosted database. Data is stored as JSON and 
+synchronized in realtime to every connected client.
+
+get function : used to fetch values from the database
+
+update function : used to store or update the values in database
+
+website: collection of web pages that runs over server
+
+Html: The HyperText Markup Language or HTML is the standard markup language for documents designed
+to be displayed in a web browser.
+
+tags: predefined text which are used to design web pages
+
+css:Cascading Style Sheets is a style sheet language used for describing the presentation of a document
+
+react:React is a free and open-source front-end JavaScript library for building user interfaces 
+based on UI components.
+
+react native: used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows 
+and UWP by enabling developers to use the React framework along with native platform capabilities.
+
+python: Python is a high-level, interpreted, general-purpose programming language. Its design philosophy 
+emphasizes code readability with the use of significant indentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
